@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "BDA-UT1",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,9 +16,9 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    name: "Proyecto UT1 - RA1 - ArturoNG"
+    name: "Proyecto UT1 · RA1 · BA",
     baseUrl: "https://github.com/ArturoNG/BDA-RA1",
-    Description: "Limpieza, ingesta, almacenamiento y reporte."
+    description: "Ingesta · Almacenamiento · Reporte",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

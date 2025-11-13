@@ -1,0 +1,5 @@
+fecha,nombre,apellido,id_cliente,_source_file,_ingest_ts,_batch_id
+2025-02-01,,López,C121,clientes.csv,2025-11-13T17:48:21.451912+00:00,demo
+2025-02-02,Andrés,,C122,clientes.csv,2025-11-13T17:48:21.451912+00:00,demo
+2025-02-06,Sofía,,NAN,clientes.csv,2025-11-13T17:48:21.451912+00:00,demo
+2025-02-07,,,NAN,clientes.csv,2025-11-13T17:48:21.451912+00:00,demo

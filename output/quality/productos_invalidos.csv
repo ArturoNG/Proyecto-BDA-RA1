@@ -1,0 +1,8 @@
+fecha_entrada,nombre_producto,id_producto,unidades,precio_unitario,categoria,_source_file,_ingest_ts,_batch_id
+2025-03-01,,P121,200,1500,electronica,productos.csv,2025-11-13T17:48:21.460367+00:00,demo
+2025-03-03,Accesorio 123,P123,,450,muebles,productos.csv,2025-11-13T17:48:21.460367+00:00,demo
+2025-03-04,Equipo 124,P124,120,-50,seguridad,productos.csv,2025-11-13T17:48:21.460367+00:00,demo
+2025-03-05,Artículo 125,P125,100,abc,electronica,productos.csv,2025-11-13T17:48:21.460367+00:00,demo
+2025-03-06,Componente 126,P126,90,,oficina,productos.csv,2025-11-13T17:48:21.460367+00:00,demo
+2025-03-07,Producto 127,P127,80,250,,productos.csv,2025-11-13T17:48:21.460367+00:00,demo
+2025-03-10,,NAN,,,,productos.csv,2025-11-13T17:48:21.460367+00:00,demo

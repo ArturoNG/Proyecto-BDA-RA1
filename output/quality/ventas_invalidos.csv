@@ -1,0 +1,8 @@
+fecha_venta,id_cliente,id_producto,unidades,precio_unitario,_source_file,_ingest_ts,_batch_id
+,C089,P093,4,3451,ventas.csv,2025-11-13T17:48:21.442917+00:00,demo
+2025-07-14,C091,P122,,300,ventas.csv,2025-11-13T17:48:21.442917+00:00,demo
+2025-07-15,C092,P123,2,-50,ventas.csv,2025-11-13T17:48:21.442917+00:00,demo
+2025-07-16,C093,P124,abc,600,ventas.csv,2025-11-13T17:48:21.442917+00:00,demo
+2025-07-17,C094,P125,5,xyz,ventas.csv,2025-11-13T17:48:21.442917+00:00,demo
+2025-07-19,C096,P127,7,,ventas.csv,2025-11-13T17:48:21.442917+00:00,demo
+2025-07-20,NAN,NAN,,,ventas.csv,2025-11-13T17:48:21.442917+00:00,demo

@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     name: "Proyecto UT1 - RA1 - ArturoNG"
-    baseUrl: "https://github.com/ArturoNG/BDA-RA1-Proyecto",
+    baseUrl: "https://github.com/ArturoNG/BDA-RA1",
     Description: "Limpieza, ingesta, almacenamiento y reporte."
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
